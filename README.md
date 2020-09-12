@@ -2,7 +2,7 @@
 > ghstars is a CLI for quickly getting the star count for any public Github Repo
 
 ## Install
-`npm install ghstars -g`
+`npm install gh-stars-cli -g`
 
 ## Usage
 All you need is a owner and repo name
